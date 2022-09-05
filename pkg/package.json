@@ -1,0 +1,8 @@
+{
+  "name": "@azu/main-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main.mjs",
+  "author": "azu",
+  "license": "MIT"
+}
