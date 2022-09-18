@@ -9,6 +9,6 @@
   "author": "azu",
   "license": "MIT",
   "dependencies": {
-    "pkg": "file:pkg"
+    "@azu/main-esm": "^1.0.3"
   }
 }
